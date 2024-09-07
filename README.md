@@ -5,11 +5,8 @@
 #### Email: asoma0710@my.msutexas.edu
 
 
-
 #### Image:
-
-<img src="https://images2.imgbox.com/b3/d5/09sLKh1N_o.png" width="200">
+<img src="https://github.com/asoma0710/asoma0710/blob/main/photo_passsize.jpg" width="170">
 
 #### Avatar:
-
-<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
+<img src="https://github.com/asoma0710/asoma0710/blob/main/chotaBheem.jpg" width="100">
