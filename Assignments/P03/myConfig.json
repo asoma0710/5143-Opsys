@@ -1,0 +1,17 @@
+{
+    "client_id": "superBad",
+    "min_jobs": 30,
+    "max_jobs": 40,
+    "min_bursts": 3,
+    "max_bursts": 5,
+    "min_job_interval": 1,
+    "max_job_interval": 3,
+    "burst_type_ratio": 0.5,
+    "min_cpu_burst_interval": 20,
+    "max_cpu_burst_interval": 30,
+    "min_io_burst_interval": 20,
+    "max_io_burst_interval": 30,
+    "min_ts_interval": 3,
+    "max_ts_interval": 3,
+    "priority_levels": [1,2,3,4,5]
+}
