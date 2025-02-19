@@ -70,7 +70,7 @@ To replicate the project in another environment:
 2. Set up a virtual environment
 3. Install dependencies (`pip install -r requirements.txt` if available)
 4. Configure settings via `myConfig.json`
-5. Run `main.py`, `scheduler.py`, or `visualization.py` as needed
+5. Run `main.py` and install any additional dependencies if need to to run it on your system
 
 ## Contributing
 Feel free to submit issues and pull requests to improve the project!
