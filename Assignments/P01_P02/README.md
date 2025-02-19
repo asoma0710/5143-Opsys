@@ -81,5 +81,5 @@ To replicate the project in another environment:
 Feel free to submit issues and pull requests to improve the project!
 
 ## License
-This project is open-source and licensed under the MIT License.
+This project is open-source
 
