@@ -3,6 +3,8 @@
 ## Description
 This project implements a **custom shell** with a **virtual filesystem** built using Python. It supports shell-like commands (e.g., `ls`, `mkdir`, `rm`, `cat`) and integrates with a database to simulate a filesystem. The project also provides an API for external interaction with the virtual filesystem.
 
+📽️ **Demo Video:** [Watch on YouTube](https://youtu.be/YcmG15s5pzQ)
+
 ## Features
 - Virtual filesystem using SQLite
 - Command-line interface supporting Linux-like commands
