@@ -8,7 +8,10 @@ Welcome to the collection of Operating Systems projects implemented using Python
 
 This project implements a custom shell with a virtual filesystem backed by SQLite. It supports common shell commands and includes a FastAPI-based interface for interacting with the filesystem via REST APIs.
 
-📽️ **Demo Video:** [Watch on YouTube](https://youtu.be/YcmG15s5pzQ)
+📽️ **Demo Video:**
+
+[![Watch Video](https://img.youtube.com/vi/YcmG15s5pzQ/hqdefault.jpg)](https://youtu.be/YcmG15s5pzQ)
+
 
 🔗 [View Project Folder](https://github.com/asoma0710/5143-Opsys/tree/main/Assignments/P01_P02)
 
@@ -18,7 +21,10 @@ This project implements a custom shell with a virtual filesystem backed by SQLit
 
 This project simulates job scheduling and execution. It includes configurable settings, a simulation engine, logging, and visualization scripts for analyzing job performance.
 
-📽️ **Demo Video:** [Watch on YouTube](https://youtu.be/W6EV3jVElkY)
+📽️ **Demo Video:** 
+
+[![Watch Video](https://img.youtube.com/vi/W6EV3jVElkY/hqdefault.jpg)](https://youtu.be/W6EV3jVElkY)
+
 
 🔗 [View Project Folder](https://github.com/asoma0710/5143-Opsys/tree/main/Assignments/P03)
 
